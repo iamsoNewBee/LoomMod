@@ -1,0 +1,10 @@
+dependencies {
+    // compileOnly("com.gtnewhorizons:CodeChickenCore:1.4.8-GTNH:dev")
+    // compileOnly("com.gtnewhorizons:NotEnoughItems:2.8.100-GTNH:dev")
+    // compileOnly("com.gtnewhorizons:CraftTweaker:3.2.5-GTNH:dev")
+
+    // 使用 flatDir 的方式，指定 JAR 文件名（不要 .jar 后缀）
+    runtimeOnlyNonPublishable name: 'CodeChickenCore-1.4.13-dev'
+    runtimeOnlyNonPublishable name: 'NotEnoughItems-2.8.100-GTNH-dev'
+    runtimeOnlyNonPublishable name: 'CraftTweaker-3.4.7-dev'
+}

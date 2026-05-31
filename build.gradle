@@ -1,0 +1,15 @@
+plugins {
+    id("com.gtnewhorizons.gtnhconvention")
+}
+repositories {
+    flatDir {
+        dirs 'libs'          // 确保这是存放jar包的目录名
+    }
+    mavenCentral()
+    // 其他仓库
+}
+dependencies {
+    compileOnly name: 'CodeChickenCore-1.4.13-dev'
+    compileOnly name: 'NotEnoughItems-2.8.100-GTNH-dev'
+    compileOnly name: 'CraftTweaker-3.4.7-dev'
+}

@@ -1,0 +1,13 @@
+# Blocks
+tile.loom.name=织布机
+tile.loomGenerator.name=织布机
+
+# Items
+item.flaxRope.name=麻线
+item.woolLoop.name=毛线圈
+item.hempLoop.name=麻线圈
+item.grassLoop.name=草线圈
+item.grassRope.name=草线
+item.grassString.name=草纤维
+item.flintKnife.name=燧石刀
+item.grassFabric.name=纤维布

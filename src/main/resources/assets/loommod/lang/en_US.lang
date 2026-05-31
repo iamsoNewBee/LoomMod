@@ -1,0 +1,16 @@
+# Blocks
+tile.loom.name=Loom
+tile.loomGenerator.name=Loom
+
+# Items
+item.flaxRope.name=Flax Rope
+item.woolLoop.name=Wool Loop
+item.hempLoop.name=Hemp Loop
+item.grassLoop.name=Grass Loop
+item.grassRope.name=Grass Rope
+item.grassString.name=Grass Fiber
+item.flintKnife.name=Flint Knife
+item.grassFabric.name=Grass Fabric
+
+tile.sewingTable.name=Sewing Table
+tile.storingSewingTable.name=Sewing Table with Drawers
